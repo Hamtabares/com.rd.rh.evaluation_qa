@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    //aqui debes ingresar las dependencias necesarias para tu proyecto
+    //aqui debes ingresar las dependencias necesarias para tu proyecto-
 }
 
 test {
